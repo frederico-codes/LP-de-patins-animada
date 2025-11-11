@@ -63,7 +63,7 @@ figure {
   overflow: hidden;
   position: relative;
   line-height: 0;
-  animation:image-appear 5s ease-in-out backwards;
+  animation:image-appear 10s ease-in-out backwards;
   animation-timeline:view();
   animation-range:100px 300px;
 
