@@ -8,23 +8,37 @@ header{
   justify-content:space-between;
 }
   
-  img{
-    width:2rem;
-    height:2rem;
-    
-    transition: transform 500ms;
-  }
+img{
+  width:2rem;
+  height:2rem;
   
-  img[src*="Clip"]:hover{
-    transform: rotate(90deg);
-  }
-  
-  img[src*="bag"]:hover {
-    transform: rotate(-30deg);
-  }
+  transition: transform 500ms;
+}
 
+img[src*="Clip"]:hover{
+  transform: rotate(90deg);
+}
+
+img[src*="bag"]:hover {
+  transform: rotate(-30deg);
+}
 a{
   position:relative;
+}
+.one{
+    width: 18px;
+  height: 18px;
+  position:absolute;
+  top:-5px;
+  right:-10px;
+   display:flex;
+  justify-content:center;
+  align-items:center;
+  background-color:var(--snitap-sun);
+  border-radius:50%;
+  padding:10px;
+  font-size: 12px;
+
 }
 
 .hero{
