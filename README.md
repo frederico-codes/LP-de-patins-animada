@@ -9,7 +9,7 @@ A página apresenta uma **landing page (LP)** temática de patins, inspirada em 
 
 ## 🎯 Objetivo  
 
-Nesta aula, trabalhamos **animações e transições no CSS**, utilizando um design de patins criado no Figma.  
+Trabalhei **animações e transições no CSS**, utilizando um design de patins criado no Figma.  
 O projeto explora efeitos visuais que tornam a navegação mais fluida e interativa, incluindo:
 - Animações ao clicar em elementos  
 - Transições suaves ao passar o mouse  
